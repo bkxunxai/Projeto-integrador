@@ -2,7 +2,7 @@
 
 
 ### Requisitos Funcionais:
-##### RF01 - Registro de Aplicações: O sistema deve permitir registrar qual defensivo foi usado e em qual data (Baseado na Pergunta 8).
+##### RF01 ###### Registro de Aplicações: O sistema deve permitir registrar qual defensivo foi usado e em qual data (Baseado na Pergunta 8).
 
 RF02 - Gestão Financeira: O sistema deve calcular o lucro final subtraindo custos de insumos e manutenção da receita da colheita (Baseado na Pergunta 10).
 
