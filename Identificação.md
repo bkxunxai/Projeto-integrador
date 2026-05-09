@@ -1,4 +1,4 @@
-## Identificação
+## IDENTIFICAÇÃO E CONTEXTO
 
 
 
@@ -14,11 +14,11 @@
 
 
 
-##### Foi escolhido este agricultor, pois ele está enfrentando problemas de perda de rendimento e custo elevado das operações.
+#### Escolhemos o Sr. Sérgio, por ser um pequeno produtor, enfrenta dificuldades com a variação dos lucros ao final da safra. Sem ferramentas para controlar os gastos e combater pragas de forma eficiente, a queda no rendimento da lavoura acaba atingindo diretamente o orçamento e a qualidade de vida de sua família.
 
 
 
-##### Entrevista:
+#### Entrevista:
 
 
 
