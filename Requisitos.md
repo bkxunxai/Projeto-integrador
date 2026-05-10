@@ -8,7 +8,7 @@
 O sistema deve permitir registrar qual defensivo foi usado e em qual data (Baseado na Pergunta 8).
 
 ##### RF02 - Gestão Financeira:
-O sistema deve calcular o lucro final subtraindo custos de insumos e manutenção da receita da colheita (Baseado na Pergunta 10).
+**O sistema deve calcular o lucro final subtraindo custos de insumos e manutenção da receita da colheita (Baseado na Pergunta 10).**
 
 ##### RF03 - Mapa de Produtividade:
 O usuário deve conseguir marcar quais áreas da fazenda renderam mais sacas (Baseado na Pergunta 14).
