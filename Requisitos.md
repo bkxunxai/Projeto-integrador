@@ -16,6 +16,15 @@ O usuário deve conseguir marcar quais áreas da fazenda renderam mais sacas (Ba
 ##### RF04 - Histórico de Pragas:
 O sistema deve manter um log de infestações passadas para consulta (Baseado na Pergunta 15).
 
+##### RF05 - 
+
+##### RF06 - 
+
+##### RF07 -
+
+##### RF08 - 
+
+
 
 ### Requisitos Não-Funcionais:
 
@@ -28,3 +37,11 @@ O sistema deve permitir o registro de dados sem internet, sincronizando quando h
 
 ##### RNF03 - Desempenho:
 O cálculo de lucro deve ser processado em menos de 2 segundos.
+
+##### RNF04 - 
+
+##### RNF05 - 
+
+##### RNF06 - 
+
+##### RNF07 - 
