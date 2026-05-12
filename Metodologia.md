@@ -15,8 +15,8 @@
     ele sofre com a incerteza do lucro e com a bagunça de gerir a fazenda apenas de cabeça ou no papel.
 ### Definição:
 
-    O maior desafio é a falta de informações sobre os custos e as culturas em tempo real. 
-    Agricultor gasta durante o plantio e o cultivo, mas só percebe o tamanho do prejuízo quando o ciclo da safra já chegou ao fim.
+    O maior desafio é a falta de informações sobre os custos e as culturas em tempo real. O agricultor
+    gasta durante o plantio e o cultivo, mas só percebe o tamanho do prejuízo quando o ciclo da safra já chegou ao fim.
 
 ### Ideação:
     Para facilitar a rotina criamos um diário de campo digital que ajuda a controlar os custos.
