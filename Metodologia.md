@@ -34,52 +34,70 @@
 
 ## Personas:
 
-### Essas personas foram criadas para representar os possíveis tipos de interação no sistema.
+## Essas personas foram criadas para representar os possíveis tipos de interação no sistema.
 
-#### Persona 1: Sergio, o agricultor tradicional.
+### Persona 1: Sergio, o agricultor tradicional.
 
-#### Esta persona representa o uso simples e o uso offline.
+### Esta persona representa o uso simples e o uso offline.
 
-Nome: Sérgio
+##### Nome: Sérgio
 
-Idade: 43 anos.
+##### Idade: 43 anos.
 
-Papel: Proprietário e operador da lavoura.
+##### Papel: Proprietário e operador da lavoura.
 
-Comportamento: passa o dia no trator ou caminhando na roça. Não tem paciência para telas complicadas ou textos longos.
+##### Comportamento:
 
-Dores: perde as anotações feitas em papel, esquece o nome de produtos que funcionaram no ano anterior e só sabe o lucro real após a colheita.
+**passa o dia no trator ou caminhando na roça. Não tem paciência para telas complicadas ou textos longos.**
 
-Objetivo do Sistema: registrar gastos, aplicações de veneno e dicas de manejo de forma adequada, com poucos cliques e botões, para ter o acesso simplificado ao histórico.
+##### Dores:
 
-#### Persona 2: O filho conectado a telas.
+**perde as anotações feitas em papel, esquece o nome de produtos que funcionaram no ano anterior e só sabe o lucro real após a colheita.**
 
-#### Esta persona representa o uso facilitado de tecnologia.
+##### Objetivo do Sistema: 
 
-Nome: Lucas
+**registrar gastos, aplicações de veneno e dicas de manejo de forma adequada, com poucos cliques e botões, para ter o acesso simplificado ao histórico.**
 
-Idade: 19 anos.
+### Persona 2: O filho conectado a telas.
 
-Papel: Filho do agricultor e estudante.
+### Esta persona representa o uso facilitado de tecnologia.
 
-Comportamento: nasceu com o celular na mão. Ajuda o pai na administração e quer trazer modernidade para a fazenda.
+##### Nome: Lucas
 
-Dores: tem dificuldade em convencer o pai a mudar processos antigos para novos meios e sente falta de modernidade para cultivar e administrar a propriedade.
+##### Idade: 19 anos.
 
-Objetivo do Sistema: Facilitar a visualização da propriedade, assim para ter melhor planejamento e controle, também para decidir onde investir ou onde cortar gastos.
+##### Papel: Filho do agricultor e estudante.
 
-#### Persona 3: O Técnico Agrícola.
+##### Comportamento:
 
-#### Esta persona representa o profissional formado na área.
+**nasceu com o celular na mão. Ajuda o pai na administração e quer trazer modernidade para a fazenda.**
 
-Nome: Ricardo
+##### Dores:
 
-Idade: 35 anos.
+**tem dificuldade em convencer o pai a mudar processos antigos para novos meios e sente falta de modernidade para cultivar e administrar a propriedade.**
 
-Papel: técnico em manejo adequado.
+##### Objetivo do Sistema:
 
-Comportamento: ele faz visitas a várias fazendas da região. Precisa de dados anotados e em ordem para dar a recomendação correta.
+**Facilitar a visualização da propriedade, assim para ter melhor planejamento e controle, também para decidir onde investir ou onde cortar gastos.**
 
-Dores: quando chega na fazenda e o agricultor não sabe dizer quando começou a infestação ou o que foi aplicado por último na lavoura.
+### Persona 3: O Técnico Agrícola.
 
-Objetivo do Sistema: ter acesso a um histórico das atividades registradas da lavoura, tendo um vínculo com o proprietário da propriedade para obter os dados registrados para indicar o defensivo mais eficaz e evitar desperdício de dinheiro.
+### Esta persona representa o profissional formado na área.
+
+##### Nome: Ricardo
+
+##### Idade: 35 anos.
+
+##### Papel: técnico em manejo adequado.
+
+##### Comportamento:
+
+**ele faz visitas a várias fazendas da região. Precisa de dados anotados e em ordem para dar a recomendação correta.**
+
+##### Dores:
+
+**quando chega na fazenda e o agricultor não sabe dizer quando começou a infestação ou o que foi aplicado por último na lavoura.**
+
+##### Objetivo do Sistema:
+
+**ter acesso a um histórico das atividades registradas da lavoura, tendo um vínculo com o proprietário da propriedade para obter os dados registrados para indicar o defensivo mais eficaz e evitar desperdício de dinheiro.**
