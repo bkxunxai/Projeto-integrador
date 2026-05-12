@@ -63,23 +63,31 @@
 
     **Às vezes sim, dependendo do tempo que tenho quando não está muito próximo do tempo de plantio.**
     
-14. Para descobrir um problema na plantação, o senhor costuma caminhar para ver de perto ou já usa alguma tecnologia para isso?
+13. Para descobrir um problema na plantação, o senhor costuma caminhar para ver de perto ou já usa alguma tecnologia para isso?
 
     **Caminhando pela lavoura e procurando por cores diferentes das plantas.**
 
-15. O senhor tem as áreas divididas entre as que são de melhor rendimento na colheita e aquelas que não são tanto?
+14. O senhor tem as áreas divididas entre as que são de melhor rendimento na colheita e aquelas que não são tanto?
 
     **Não.**
-16. Quando é feita a revisão das máquinas e equipamentos? Ao final da safra?
-
+15. Quando é feita a revisão das máquinas e equipamentos? Ao final da safra?
+ 
     **Dependendo de como está o equipamento, se tiver em mal estado ao final da safra sempre.**
-17. Quanto do seu tempo diário é gasto com tarefas administrativas (notas, recibos, burocracia) em vez de no campo?
+    
+16. Quanto do seu tempo diário é gasto com tarefas administrativas (notas, recibos, burocracia) em vez de no campo?
 
+    **Uma a duas horas; faço isso no horário do almoço e jantar.**
 
-18. Se existisse um aplicativo que avisasse o momento exato de aplicar um insumo ou calculasse seu lucro em tempo real, o senhor teria facilidade em usar?
+17. Se existisse um aplicativo que avisasse o momento exato de aplicar um insumo ou calculasse seu lucro em tempo real, o senhor teria facilidade em usar?
 
+    **Se fosse simples de usar sim, eu pediria ajuda ao meu filho, dependendo do que.**
 
-19. Quais informações são mais essenciais para o senhor ter "na palma da mão" para tomar uma decisão rápida durante o dia?
+18. Quais informações são mais essenciais para o senhor ter "na palma da mão" para tomar uma decisão rápida durante o dia?
 
+    **O ciclo de como está a planta, como estará o tempo para o dia, preço de venda quando for fazer a colheita.**
 
-20. No final do dia, o que seria mais valioso para o senhor: reduzir o custo, ganhar tempo nas operações ou ter mais precisão na colheita?
+19. No final do dia, o que seria mais valioso para o senhor: reduzir o custo, ganhar tempo nas operações ou ter mais precisão na colheita?
+
+    **Ganhar tempo para ter mais tempo com a minha família.**
+
+###### Entrevista finalizada! As respostas do entrevistado foram destacadas em negrito para facilitar o entendimento do leitor.
