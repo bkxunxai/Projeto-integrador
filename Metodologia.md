@@ -31,6 +31,7 @@
     Mostramos as telas desenvolvidadas do projeto ao agricultor para ele confirmar se,
     as telas do sistema mostravam o que ele realmente precisava ver durante o dia de trabalho.
     E assim obtivemos o feedback necessário para prosseguir com o desenvolvimento do sistema.
+    O Sr. Sérgio teve a facilidade em utilizar a função de tirar fotos das plantas para ter diagnóstico.
 
 ## Personas:
 
@@ -42,9 +43,9 @@
 
 ##### Nome: Sérgio
 
-##### Idade: 43 anos.
+##### Idade: 43 anos
 
-##### Papel: Proprietário e operador da lavoura.
+##### Papel: Proprietário e operador da lavoura
 
 ##### Comportamento:
 
@@ -64,9 +65,9 @@
 
 ##### Nome: Lucas
 
-##### Idade: 19 anos.
+##### Idade: 19 anos
 
-##### Papel: Filho do agricultor e estudante.
+##### Papel: Filho do agricultor e estudante
 
 ##### Comportamento:
 
@@ -80,15 +81,15 @@
 
 **Facilitar a visualização da propriedade, assim para ter melhor planejamento e controle, também para decidir onde investir ou onde cortar gastos.**
 
-### Persona 3: O Técnico Agrícola.
+### Persona 3: O Técnico Agrícola
 
-### Esta persona representa o profissional formado na área.
+### Esta persona representa o profissional formado na área
 
 ##### Nome: Ricardo
 
-##### Idade: 35 anos.
+##### Idade: 35 anos
 
-##### Papel: técnico em manejo adequado.
+##### Papel: técnico em manejo adequado
 
 ##### Comportamento:
 

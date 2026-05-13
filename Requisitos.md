@@ -30,7 +30,7 @@
 
 ##### RF07 - Indicações:
 
-***O sistema terá opção para escolher qual cultura terá mais prioridade para serem fornecidas indicações mais frequentes.***
+***O sistema terá opção para escolher qual cultura terá mais prioridade para serem fornecidas indicações mais frequentes de manejo .***
 
 ##### RF08 - Visualização de preços:
 
