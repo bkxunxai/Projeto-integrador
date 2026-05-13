@@ -42,7 +42,7 @@
 
 ##### RF10: Visualizar Clima:
 
-***O sistema terá uma aba para a visualização da previsão do tempo em tempo real.***
+***O sistema terá uma aba para a visualização da previsão do tempo em tempo real e futura.***
 
 ## Requisitos Não-Funcionais:
 
