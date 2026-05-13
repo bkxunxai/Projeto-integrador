@@ -1,5 +1,5 @@
 # CultivIA
- O seu assistente inteligente no campo. Gestão, saúde da lavoura e controle financeiro na palma da mão.
+ O seu assistente inteligente para o campo. Gestão, saúde da lavoura e controle financeiro na palma da mão.
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-brightgreen)
 ![Licença](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -14,12 +14,12 @@ Além do cuidado direto com a plantação, o CultivIA atua como um gerenciador c
 ## 𖥔 Funcionalidades Principais
 
 ### ✧ Diagnóstico por Imagem (IA)
-* *Identificação de Plantas:* Reconhecimento automático da cultura.
+* *Identificação de Plantas:* Reconhecimento da cultura.
 * *Detecção de Pragas e Doenças:* Análise de anomalias nas folhas, caules ou frutos através de fotos.
 * *Sugestões de Tratamento:* Recomendação de defensivos, fertilizantes e dosagens corretas baseadas no diagnóstico da IA.
 
 ### ⛉ Segurança e Manejo
-* *Recomendação de EPIs:* Indicação automática dos Equipamentos de Proteção Individual necessários para o manuseio dos produtos sugeridos pela IA.
+* *Recomendação de EPIs:* Indicação de Equipamentos de Proteção Individual necessários para o manuseio dos produtos sugeridos pela IA.
 * *Calendário de Aplicação:* Lembretes de quando e como aplicar os insumos.
 
 ### ⛁ Gestão da Fazenda e Financeiro
