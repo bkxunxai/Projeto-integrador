@@ -75,4 +75,4 @@
 
 ##### RNF08 - Coleta de informações:
 
-***O sistema coleta informações do usuário, assim para se adequar ao estilo dele.***
+***O sistema coleta informações do usuário, assim para se adequar ao estilo dele e melhorar o sistema.***
