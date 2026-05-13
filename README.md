@@ -7,7 +7,7 @@
 
 ## ⚘ Sobre o Projeto
 
-O **CultivIA** é um aplicativo mobile desenvolvido para ser o braço direito do produtor rural. Utilizando Inteligência Artificial e Visão Computacional, o app permite que o agricultor tire fotos de suas plantas para identificar espécies, diagnosticar pragas ou doenças, e receber recomendações técnicas precisas. 
+O **CultivIA** é um aplicativo mobile desenvolvido para ser o braço direito do produtor rural. Utilizando Inteligência Artificial e Visão Computacional, o app permite que o agricultor tire fotos de suas culturas para identificar espécies, diagnosticar pragas ou doenças, e receber recomendações técnicas precisas. 
 
 Além do cuidado direto com a plantação, o CultivIA atua como um gerenciador completo da fazenda, unindo o planejamento agrícola com a gestão financeira e de estoque.
 
