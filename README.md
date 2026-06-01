@@ -22,5 +22,11 @@ O **AgroVision Pro** é uma solução mobile inteligente voltada para a gestão 
 *   **Rafael Marcelino**
 *   **Sidney Dudczak**
 
-**Instituição:** Centro Universitário Campo Real | **Curso:** Engenharia de Software [12]
+---
+
+
+
+**Instituição:** Centro Universitário Campo Real  
+**Curso:** Engenharia de Software
+
 
