@@ -38,11 +38,6 @@ Os requisitos não-funcionais definem os critérios de qualidade e as restriçõ
 
 ---
 
-## 👥 Equipe Responsável
-*   Juan Rafael Bet
-*   Natanael Constante Padilha
-*   Rafael Marcelino
-*   Sidney Dudczak
 
 **Instituição:** Centro Universitário Campo Real  
 **Disciplina:** Fundamentos de Engenharia de Software
