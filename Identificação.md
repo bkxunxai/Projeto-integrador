@@ -1,93 +1,56 @@
-# RELATÓRIO DE PROJETO:
-## IDENTIFICAÇÃO E CONTEXTO
+#  Entrevista: Levantamento de Necessidades
 
+Este documento apresenta a transcrição e análise da entrevista realizada com um stakeholder real, servindo como base técnica para o desenvolvimento do **AgroVision Pro**. Conforme as diretrizes acadêmicas, a entrevista foi do tipo **aberta**, visando identificar dores, comportamentos e oportunidades de inovação [1, 2].
 
-#### Nome: Sergio
+---
 
+## 1. Identificação do Entrevistado
+*   **Nome:** Sérgio [3]
+*   **Idade:** 43 anos [3]
+*   **Ocupação:** Pequeno Produtor Rural (Agricultor) [3]
+*   **Experiência:** 33 anos de atuação na lavoura, com jornada média de 11 horas diárias [3].
 
-#### Idade: 43 anos
+## 2. Contexto e Justificativa
+O Sr. Sérgio foi escolhido por representar o público-alvo principal do projeto: o pequeno produtor que lida com a alta variação de lucros ao fim da safra [3]. A ausência de ferramentas de controle e a dependência da memória para o manejo de pragas atingem diretamente sua rentabilidade e qualidade de vida familiar [3].
 
-#### Ocupação: Agricultor
+---
 
+## 3. Transcrição da Entrevista
 
-#### Escolhemos o Sr. Sérgio, por ser um pequeno produtor, enfrenta dificuldades com muita variação de lucros ao final da safra. Sem ferramentas para controlar os gastos e combater pragas de forma eficiente, a queda no rendimento da lavoura acaba atingindo diretamente o orçamento e a qualidade de vida de sua família.
+**P: Quais os tipos de cultura que o senhor produz atualmente?**  
+**R:** Milho, soja, feijão e tabaco [3].
 
+**P: Qual o problema mais comum que ocorre com essas culturas e como o senhor resolve hoje?**  
+**R:** O controle de pragas, que exige manejo diferente para cada uma. Hoje uso venenos baseados em testes próprios ou dicas de conhecidos [3].
 
-### Entrevista:
+**P: O que impede o senhor de procurar um profissional (agrônomo) para indicar o melhor produto?**  
+**R:** O custo é muito alto e a distância para o deslocamento é grande [3].
 
-1. Quanto tempo o senhor já trabalha na lavoura?
+**P: O senhor costuma anotar os defensivos que funcionaram?**  
+**R:** Não, lembro de cabeça. Anotar gera bagunça e é fácil de se confundir [3].
 
-   **Há 33 anos.**
-   
-2. Quantas horas por dia o senhor trabalha, em média?
+**P: Como o senhor calcula o lucro ou prejuízo da safra?**  
+**R:** Uso a memória e confiro as notas fiscais ao final [3].
 
-   **11 horas, mais ou menos.**
+**P: Como o senhor monitora a plantação em busca de problemas?**  
+**R:** Caminhando pela lavoura e procurando por cores diferentes nas plantas [3].
 
-3. Quais os tipos de cultura que o senhor produz atualmente?
+**P: Se existisse um aplicativo para avisar o momento de aplicar insumos ou calcular o lucro, o senhor usaria?**  
+**R:** Se fosse simples de usar, sim. Pediria ajuda ao meu filho para o que fosse necessário [3].
 
-   **Milho, soja, feijão e tabaco.**
+**P: Quais informações são essenciais ter "na palma da mão"?**  
+**R:** O ciclo da planta, a previsão do tempo para o dia e o preço de venda para a colheita [3].
 
-4. Qual o problema mais comum que ocorre com essas culturas?
+**P: No final do dia, o que seria mais valioso para o senhor?**  
+**R:** Ganhar tempo para ter mais tempo com a minha família [3].
 
-   **Controle de pragas com manejo diferente para cada uma.**
+---
 
-5. Como o senhor faz hoje para conseguir controlar esses problemas?
+## 4. Análise de Dores e Insights (Requisitos)
+A partir desta conversa, consolidamos os pilares do **AgroVision Pro**:
+1.  **Simplicidade Extrema:** A interface deve ser "limpa" para não confundir o usuário que tem aversão a processos burocráticos [3, 4].
+2.  **Apoio à Decisão:** Necessidade de cotações de mercado e previsão do tempo em tempo real (RF08 e RF10) [3, 5].
+3.  **Memória Digital:** Substituir o "lembrar de cabeça" por um registro rápido de aplicações (RF05) [3, 6].
+4.  **Uso Compartilhado:** O design deve permitir que o "filho conectado" (Persona Lucas) ajude na configuração [3, 7].
 
-   **Com o uso de venenos.**
-
-6. Como o senhor chega ao produto mais indicado para o controle?
-
-   **Testando de forma própria e dicas de conhecidos.**
-
-7. O que te impede de procurar um profissional (agrônomo/técnico) para indicar melhor o produto?
-
-   **Custo alto e muito longe para se deslocar.**
-
-8. Caso o senhor encontre um defensivo que funcionou para determinada praga, o senhor deixa isso anotado? Se sim, onde?
-
-   **Lembro de cabeça, pois ficar anotando gera bagunça depois e é fácil de se confundir.**
-   
-9. O que o senhor acha do avanço da tecnologia no setor agrícola?
-
-   **Acho bom, pois ajuda bastante no controle das coisas e é mais rápido para fazer as coisas.**
-
-10. Como o senhor faz o cálculo para saber se teve lucro ou prejuízo ao fim de uma safra? (Usa papel, planilha ou memória?)
-
-    **Sempre na memória e também usando as notas fiscais.**
-
-11. Qual é o custo que mais impacta o seu orçamento hoje (combustível, sementes, defensivos ou manutenção)?
-
-    **Combustível e insumos comparados com o preço de venda do produto produzido.**
-    
-12. O senhor faz uma pesquisa de preços em diferentes fornecedores antes de realizar a compra de insumos?
-
-    **Às vezes sim, dependendo do tempo que tenho quando não está muito próximo do tempo de plantio.**
-    
-13. Para descobrir um problema na plantação, o senhor costuma caminhar para ver de perto ou já usa alguma tecnologia para isso?
-
-    **Caminhando pela lavoura e procurando por cores diferentes das plantas.**
-
-14. O senhor tem as áreas divididas entre as que são de melhor rendimento na colheita e aquelas que não são tanto?
-
-    **Não.**
-15. Quando é feita a revisão das máquinas e equipamentos? Ao final da safra?
- 
-    **Dependendo de como está o equipamento, se tiver em mal estado ao final da safra sempre.**
-    
-16. Quanto do seu tempo diário é gasto com tarefas administrativas (notas, recibos, burocracia) em vez de no campo?
-
-    **Uma a duas horas; faço isso no horário do almoço e jantar.**
-
-17. Se existisse um aplicativo que avisasse o momento exato de aplicar um insumo ou calculasse seu lucro em tempo real, o senhor teria facilidade em usar?
-
-    **Se fosse simples de usar sim, eu pediria ajuda ao meu filho, dependendo do que.**
-
-18. Quais informações são mais essenciais para o senhor ter "na palma da mão" para tomar uma decisão rápida durante o dia?
-
-    **O ciclo de como está a planta, como estará o tempo para o dia, preço de venda quando for fazer a colheita.**
-
-19. No final do dia, o que seria mais valioso para o senhor: reduzir o custo, ganhar tempo nas operações ou ter mais precisão na colheita?
-
-    **Ganhar tempo para ter mais tempo com a minha família.**
-
-###### Entrevista finalizada! As respostas do entrevistado foram destacadas em negrito para facilitar o entendimento do leitor.
+---
