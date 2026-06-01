@@ -39,6 +39,7 @@ Fase focada em estruturar a base técnica, repositórios e regras de negócio es
 - [x] **Definição de Requisitos Não-Funcionais (RNFs)**.
 - [x] **Criação do Repositório Git**: Setup do ambiente de versionamento oficial.
 - [x] **Organização da Documentação**: Estruturação dos arquivos.
+- [x] **Criação do quadro no trello: Facilitar a organização dos desenvolvedores.
 
 ---
 
