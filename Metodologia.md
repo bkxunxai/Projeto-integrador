@@ -24,6 +24,13 @@ Validação constante dos fluxos com foco na redução de cliques para execuçã
 
 ---
 
+## 👥 Organização da Equipe (Scrum Roles)
+Para garantir a agilidade e o cumprimento das Sprints, dividimos as responsabilidades conforme os papéis do Scrum:
+
+*   **Scrum Master:** Juan Rafael Bet (Responsável pela facilitação dos processos e remoção de impedimentos).
+*   **Product Owner (PO):** Sidney Dudczak (Responsável pela visão do produto e priorização do Backlog).
+*   **Equipe de Desenvolvimento (UI/UX):** Natanael Constante Padilha e Rafael Marcelino (Responsáveis pelo design de alta fidelidade e fluxo de telas no Figma).
+---
 
 
 **Instituição:** Centro Universitário Campo Real  
