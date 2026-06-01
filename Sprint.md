@@ -56,3 +56,10 @@ Fase com foco total na materialização da interface, testes de usabilidade em p
 - [ ] **Validação com o Entrevistado**: Teste do protótipo com o usuário inicial para coletar feedbacks.
 - [ ] **Preparação da Apresentação**: Construção do material para defesa do projeto (conforme Tópico 7).
 - [ ] **Finalização da Documentação**: Encerramento de todos os artefatos de text
+
+---
+
+
+
+**Instituição:** Centro Universitário Campo Real  
+**Curso:** Engenharia de Software
