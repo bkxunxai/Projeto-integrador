@@ -16,17 +16,10 @@ O **AgroVision Pro** é uma solução mobile inteligente voltada para a gestão 
 
 ---
 
-## 👥 Equipe
-*   **Juan Rafael Bet**
-*   **Natanael Constante Padilha**
-*   **Rafael Marcelino**
-*   **Sidney Dudczak**
+## 👥 Equipe e Responsabilidades
+*   **Juan Rafael Bet** – Scrum Master
+*   **Sidney Dudczak** – Product Owner
+*   **Natanael Constante Padilha** – Desenvolvedor de Interface (UI/UX)
+*   **Rafael Marcelino** – Desenvolvedor de Interface (UI/UX)
 
----
-
-
-
-**Instituição:** Centro Universitário Campo Real  
-**Curso:** Engenharia de Software
-
-
+**Instituição:** Centro Universitário Campo Real | **Curso:** Engenharia de Software
