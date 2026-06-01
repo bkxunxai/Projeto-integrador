@@ -11,7 +11,7 @@ O **AgroVision Pro** é um ecossistema mobile inteligente que utiliza **Intelig�
 ## 🎨 Protótipo Interativo (Figma)
 Como parte da **Sprint 3**, desenvolvemos um protótipo de alta fidelidade que simula a experiência real do usuário, incluindo fluxos de diagnóstico e dashboard financeiro [2, 6].
 
-🔗 **[CLIQUE AQUI PARA ACESSAR O PROTÓTIPO NO FIGMA]([INSIRA_SEU_LINK_AQUI](https://www.figma.com/proto/AlVZLgEz5sJs8g817zXEf1/CultivIA?node-id=2-803&t=dqWGCQrzVbjvn02s-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=76%3A151))**
+🔗 **[CLIQUE AQUI PARA ACESSAR O PROTÓTIPO NO FIGMA](https://www.figma.com/proto/AlVZLgEz5sJs8g817zXEf1/CultivIA?node-id=2-803&t=dqWGCQrzVbjvn02s-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=76%3A151)**
 
 ---
 
