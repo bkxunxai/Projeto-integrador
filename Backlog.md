@@ -57,6 +57,7 @@ Este documento contém a listagem priorizada de todas as funcionalidades, requis
 *   [x] Criação do Fluxo de Onboarding e Login
 *   [x] Desenvolvimento das telas de Diagnóstico e Financeiro
 *   [ ] Refinamento de Consistência Visual (Página de Notificações e Aplicações)
+*   [ ] Validação do prototipo.
 
 ---
 
