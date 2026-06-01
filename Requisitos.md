@@ -39,5 +39,6 @@ Os requisitos não-funcionais definem os critérios de qualidade e as restriçõ
 ---
 
 
+
 **Instituição:** Centro Universitário Campo Real  
-**Disciplina:** Fundamentos de Engenharia de Software
+**Curso:** Engenharia de Software
