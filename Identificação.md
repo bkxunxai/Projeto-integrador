@@ -50,3 +50,10 @@ Este documento detalha a fase de imersão do projeto **AgroVision Pro**, apresen
 1.  **Aversão à Burocracia:** O registro deve ser automático ou de "poucos cliques" para evitar a sensação de "bagunça" relatada pelo usuário [1].
 2.  **Suporte à Decisão:** O app deve fornecer o preço de venda e o ciclo da planta em tempo real, pois são as informações que ele considera essenciais [1].
 3.  **Foco em Tempo:** O valor real da solução não é apenas o lucro, mas a economia de tempo para o convívio familiar [1].
+
+---
+
+
+
+**Instituição:** Centro Universitário Campo Real  
+**Curso:** Engenharia de Software
