@@ -10,7 +10,7 @@ Este projeto adota o framework ágil **Scrum** para garantir entregas incrementa
 | Sprint | Período | Objetivo Principal | Status |
 | :---: | :---: | :--- | :---: |
 | **Sprint 1** | 30/04/2026 - 14/05/2026 | Concepção, Alinhamento e Metodologia | `Concluído` |
-| **Sprint 2** | 15/05/2026 - 20/05/2026 | Arquitetura Técnica e Documentação Base | `Conluido` |
+| **Sprint 2** | 15/05/2026 - 20/05/2026 | Arquitetura Técnica e Documentação Base | `Concluido` |
 | **Sprint 3** | 21/05/2026 - 10/06/2026 | Design de Experiência (UI/UX) e Validação | `Concluido` |
 
 ---
