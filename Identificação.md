@@ -54,3 +54,8 @@ A partir desta conversa, consolidamos os pilares do **AgroVision Pro**:
 4.  **Uso Compartilhado:** O design deve permitir que o "filho conectado" (Persona Lucas) ajude na configuração [3, 7].
 
 ---
+
+
+
+**Instituição:** Centro Universitário Campo Real  
+**Curso:** Engenharia de Software
