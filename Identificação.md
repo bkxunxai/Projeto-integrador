@@ -1,93 +1,59 @@
-# RELATÓRIO DE PROJETO:
-## IDENTIFICAÇÃO E CONTEXTO
+# 📄 Relatório de Identificação e Contexto
+
+Este documento detalha a fase de imersão do projeto **AgroVision Pro**, apresentando o perfil do stakeholder e a transcrição da entrevista que fundamentou todos os requisitos do sistema.
+
+---
+
+## 👤 Perfil do Entrevistado
+*   **Nome:** Sérgio
+*   **Idade:** 43 anos
+*   **Ocupação:** Pequeno Produtor Rural (Agricultor)
+*   **Contexto:** Atua há 33 anos na lavoura, produzindo milho, soja, feijão e tabaco. Foi escolhido por representar o público que sofre com a variação de lucros e a falta de ferramentas técnicas de controle.
+
+---
+
+## 🎙️ Transcrição Completa da Entrevista
+
+**P: Quanto tempo o senhor já trabalha na lavoura e qual sua rotina?**  
+**R:** Há 33 anos. Trabalho umas 11 horas por dia, mais ou menos.
+
+**P: Qual o problema mais comum que ocorre nas suas culturas?**  
+**R:** O controle de pragas, porque cada uma exige um manejo diferente.
+
+**P: Como o senhor resolve isso hoje e como escolhe os produtos?**  
+**R:** Uso venenos. Escolho testando por conta própria ou seguindo dicas de conhecidos.
+
+**P: Por que não procura um agrônomo ou técnico?**  
+**R:** O custo é muito alto e a distância para eles virem aqui é muito grande.
+
+**P: O senhor anota o que funcionou para usar depois?**  
+**R:** Não, lembro de cabeça. Anotar gera bagunça e a gente acaba se confundindo.
+
+**P: Como o senhor calcula o lucro ou prejuízo da safra?**  
+**R:** Sempre na memória e conferindo as notas fiscais no final.
+
+**P: Qual custo mais pesa no seu orçamento?**  
+**R:** O combustível e os insumos, principalmente quando comparados ao preço de venda do produto.
+
+**P: O senhor usa alguma tecnologia para monitorar a plantação?**  
+**R:** Não, eu caminho pela lavoura procurando por cores diferentes nas plantas.
+
+**P: Se existisse um aplicativo simples para avisar o momento de aplicar insumos ou calcular lucro, o senhor usaria?**  
+**R:** Se fosse simples de usar, sim. Pediria ajuda ao meu filho para o que fosse necessário.
+
+**P: O que seria mais valioso para o senhor no final do dia?**  
+**R:** Ganhar tempo para poder ficar mais tempo com a minha família.
+
+---
+
+## 💡 Insights Extraídos
+1.  **Aversão à Burocracia:** O registro deve ser automático ou de "poucos cliques" para evitar a sensação de "bagunça" relatada pelo usuário.
+2.  **Suporte à Decisão:** O app deve fornecer o preço de venda e o ciclo da planta em tempo real, pois são as informações que ele considera essenciais.
+3.  **Foco em Tempo:** O valor real da solução não é apenas o lucro, mas a economia de tempo para o convívio familiar.
+
+---
 
 
-#### Nome: Sergio
 
-
-#### Idade: 43 anos
-
-#### Ocupação: Agricultor
-
-
-#### Escolhemos o Sr. Sérgio, por ser um pequeno produtor, enfrenta dificuldades com muita variação de lucros ao final da safra. Sem ferramentas para controlar os gastos e combater pragas de forma eficiente, a queda no rendimento da lavoura acaba atingindo diretamente o orçamento e a qualidade de vida de sua família.
-
-
-### Entrevista:
-
-1. Quanto tempo o senhor já trabalha na lavoura?
-
-   **Há 33 anos.**
-   
-2. Quantas horas por dia o senhor trabalha, em média?
-
-   **11 horas, mais ou menos.**
-
-3. Quais os tipos de cultura que o senhor produz atualmente?
-
-   **Milho, soja, feijão e tabaco.**
-
-4. Qual o problema mais comum que ocorre com essas culturas?
-
-   **Controle de pragas com manejo diferente para cada uma.**
-
-5. Como o senhor faz hoje para conseguir controlar esses problemas?
-
-   **Com o uso de venenos.**
-
-6. Como o senhor chega ao produto mais indicado para o controle?
-
-   **Testando de forma própria e dicas de conhecidos.**
-
-7. O que te impede de procurar um profissional (agrônomo/técnico) para indicar melhor o produto?
-
-   **Custo alto e muito longe para se deslocar.**
-
-8. Caso o senhor encontre um defensivo que funcionou para determinada praga, o senhor deixa isso anotado? Se sim, onde?
-
-   **Lembro de cabeça, pois ficar anotando gera bagunça depois e é fácil de se confundir.**
-   
-9. O que o senhor acha do avanço da tecnologia no setor agrícola?
-
-   **Acho bom, pois ajuda bastante no controle das coisas e é mais rápido para fazer as coisas.**
-
-10. Como o senhor faz o cálculo para saber se teve lucro ou prejuízo ao fim de uma safra? (Usa papel, planilha ou memória?)
-
-    **Sempre na memória e também usando as notas fiscais.**
-
-11. Qual é o custo que mais impacta o seu orçamento hoje (combustível, sementes, defensivos ou manutenção)?
-
-    **Combustível e insumos comparados com o preço de venda do produto produzido.**
-    
-12. O senhor faz uma pesquisa de preços em diferentes fornecedores antes de realizar a compra de insumos?
-
-    **Às vezes sim, dependendo do tempo que tenho quando não está muito próximo do tempo de plantio.**
-    
-13. Para descobrir um problema na plantação, o senhor costuma caminhar para ver de perto ou já usa alguma tecnologia para isso?
-
-    **Caminhando pela lavoura e procurando por cores diferentes das plantas.**
-
-14. O senhor tem as áreas divididas entre as que são de melhor rendimento na colheita e aquelas que não são tanto?
-
-    **Não.**
-15. Quando é feita a revisão das máquinas e equipamentos? Ao final da safra?
- 
-    **Dependendo de como está o equipamento, se tiver em mal estado ao final da safra sempre.**
-    
-16. Quanto do seu tempo diário é gasto com tarefas administrativas (notas, recibos, burocracia) em vez de no campo?
-
-    **Uma a duas horas; faço isso no horário do almoço e jantar.**
-
-17. Se existisse um aplicativo que avisasse o momento exato de aplicar um insumo ou calculasse seu lucro em tempo real, o senhor teria facilidade em usar?
-
-    **Se fosse simples de usar sim, eu pediria ajuda ao meu filho, dependendo do que.**
-
-18. Quais informações são mais essenciais para o senhor ter "na palma da mão" para tomar uma decisão rápida durante o dia?
-
-    **O ciclo de como está a planta, como estará o tempo para o dia, preço de venda quando for fazer a colheita.**
-
-19. No final do dia, o que seria mais valioso para o senhor: reduzir o custo, ganhar tempo nas operações ou ter mais precisão na colheita?
-
-    **Ganhar tempo para ter mais tempo com a minha família.**
-
-###### Entrevista finalizada! As respostas do entrevistado foram destacadas em negrito para facilitar o entendimento do leitor.
+**Instituição:** Centro Universitário Campo Real  
+**Curso:** Engenharia de Software

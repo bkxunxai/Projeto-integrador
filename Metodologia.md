@@ -1,104 +1,55 @@
-## METODOLOGIA
+# Metodologia e Processo de Desenvolvimento 🛠️
 
+Este documento detalha a abordagem metodológica utilizada na concepção do **AgroVision Pro**, integrando o Design Thinking para a descoberta de valor e o framework Scrum para a gestão ágil do projeto.
 
+---
 
+## 💡 Design Thinking
+O projeto foi conduzido seguindo as cinco etapas clássicas do Design Thinking, focando na empatia com o produtor rural e na resolução de suas dores reais.
 
-### Metodologia que foi utilizada: DESIGN THINKING
+### 1. Empatia (Imersão)
+Realizamos entrevistas abertas com o **Sr. Sérgio**, agricultor com 33 anos de experiência. O objetivo foi compreender a rotina exaustiva de quem trabalha 11 horas por dia no campo e possui uma forte aversão a sistemas digitais complexos e burocráticos.
 
+### 2. Definição
+Identificamos que o problema central não era apenas a falta de tecnologia, mas a **vulnerabilidade do produtor** à variação de lucros por falta de um controle técnico e financeiro que não dependesse exclusivamente da sua memória.
 
+### 3. Ideação
+Ideamos um assistente inteligente que atua em duas frentes críticas: o uso de **Inteligência Artificial** para substituir a assistência técnica de alto custo e a **automação financeira** para eliminar a necessidade de anotações manuais.
 
+### 4. Prototipação
+Desenvolvemos um protótipo de alta fidelidade no Figma, aplicando o requisito não-funcional de usabilidade (**RNF01**). O foco foi um layout limpo, com botões expandidos e tipografia de alta legibilidade.
 
-#### Utilizamos essa metodologia para entender o Sr. Sérgio, como ele se comporta e age para tais problemas que ele enfrenta.
+### 5. Teste
+O fluxo foi validado através da simulação de navegação, com foco total na **redução de cliques** para a execução de tarefas, garantindo que o Sr. Sérgio consiga operar o sistema mesmo em condições de cansaço após o trabalho.
 
-### Empatia:
-    Foi realizada a pesquisa; com isso, descobrimos que a dor do Sr. Sérgio vai além das pragas,
-    ele sofre com a incerteza do lucro e com a bagunça de gerir a fazenda apenas de cabeça ou no papel.
-### Definição:
+---
 
-    O maior desafio é a falta de informações sobre os custos e as culturas em tempo real. O agricultor
-    gasta durante o plantio e o cultivo, mas só percebe o tamanho do prejuízo quando o ciclo da safra já chegou ao fim.
+## 👥 Personas
+Estabelecemos três perfis de usuários para guiar as decisões de design:
 
-### Ideação:
-    Para facilitar a rotina criamos um diário de campo digital que ajuda a controlar os custos.
-    E um mapa visual para identificar os melhores pontos de colheita.
-### Prototipação:
+1.  **Sérgio (Agricultor Tradicional):** O usuário principal, focado em simplicidade e agilidade para ganhar tempo com a família.
+2.  **Lucas (Filho Conectado):** O facilitador tecnológico que auxilia o pai na modernização da gestão da fazenda.
+3.  **Ricardo (Técnico Agrícola):** O consultor que utiliza o histórico de pragas e aplicações gerado pelo app para fornecer recomendações precisas.
 
-    Foi desenvolvido um protótipo (no Figma). Assim foi sugerido um app que contém informações de,
-    culturas e sugestões de manejo que o produtor precisa no seu dia a dia.
+---
 
-### Teste:
+## 🔄 Gestão Ágil: Scrum
+A equipe foi organizada conforme os papéis do Scrum para garantir a entrega das três Sprints planejadas:
 
-    Mostramos as telas desenvolvidadas do projeto ao agricultor para ele confirmar se,
-    as telas do sistema mostravam o que ele realmente precisava ver durante o dia de trabalho.
-    E assim obtivemos o feedback necessário para prosseguir com o desenvolvimento do sistema.
-    O Sr. Sérgio teve a facilidade em utilizar a função de tirar fotos das plantas para ter diagnóstico.
+### Funções da Equipe
+*   **Scrum Master:** Juan Rafael Bet
+*   **Product Owner:** Sidney Dudczak
+*   **Equipe de Desenvolvimento (UI/UX):** Natanael Constante Padilha e Rafael Marcelino
 
-## Personas:
+### Ciclo de Sprints
+*   **Sprint 1:** Imersão no problema, entrevista com o stakeholder e definição da ideia central.
+*   **Sprint 2:** Documentação técnica, levantamento de Requisitos Funcionais (RFs) e Não-Funcionais (RNFs).
+*   **Sprint 3:** Design de interface no Figma, criação do protótipo interativo e finalização da documentação acadêmica.
 
-## Essas personas foram criadas para representar os possíveis tipos de interação no sistema.
+---
 
-### Persona 1: Sergio, o agricultor tradicional.
+## ⚠️ Nota Importante
+Este projeto é um **protótipo estritamente visual** para fins acadêmicos e não contém programação funcional nesta etapa de desenvolvimento.
 
-### Esta persona representa o uso simples e o uso offline.
-
-##### Nome: Sérgio
-
-##### Idade: 43 anos
-
-##### Papel: Proprietário e operador da lavoura
-
-##### Comportamento:
-
-**passa o dia no trator ou caminhando na roça. Não tem paciência para telas complicadas ou textos longos.**
-
-##### Dores:
-
-**perde as anotações feitas em papel, esquece o nome de produtos que funcionaram no ano anterior e só sabe o lucro real após a colheita.**
-
-##### Objetivo do Sistema: 
-
-**registrar gastos, aplicações de veneno e dicas de manejo de forma adequada, com poucos cliques e botões, para ter o acesso simplificado ao histórico.**
-
-### Persona 2: O filho conectado a telas.
-
-### Esta persona representa o uso facilitado de tecnologia.
-
-##### Nome: Lucas
-
-##### Idade: 19 anos
-
-##### Papel: Filho do agricultor e estudante
-
-##### Comportamento:
-
-**nasceu com o celular na mão. Ajuda o pai na administração e quer trazer modernidade para a fazenda.**
-
-##### Dores:
-
-**tem dificuldade em convencer o pai a mudar processos antigos para novos meios e sente falta de modernidade para cultivar e administrar a propriedade.**
-
-##### Objetivo do Sistema:
-
-**Facilitar a visualização da propriedade, assim para ter melhor planejamento e controle, também para decidir onde investir ou onde cortar gastos.**
-
-### Persona 3: O Técnico Agrícola
-
-### Esta persona representa o profissional formado na área
-
-##### Nome: Ricardo
-
-##### Idade: 35 anos
-
-##### Papel: técnico em manejo adequado
-
-##### Comportamento:
-
-**ele faz visitas a várias fazendas da região. Precisa de dados anotados e em ordem para dar a recomendação correta.**
-
-##### Dores:
-
-**quando chega na fazenda e o agricultor não sabe dizer quando começou a infestação ou o que foi aplicado por último na lavoura.**
-
-##### Objetivo do Sistema:
-
-**ter acesso a um histórico das atividades registradas da lavoura, tendo um vínculo com o proprietário da propriedade para obter os dados registrados para indicar o defensivo mais eficaz e evitar desperdício de dinheiro.**
+**Instituição:** Centro Universitário Campo Real  
+**Curso:** Engenharia de Software

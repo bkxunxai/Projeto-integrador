@@ -1,29 +1,39 @@
-# CultivIA
- O seu assistente inteligente para o campo. Gestão, saúde da lavoura e controle financeiro na palma da mão.
+# AgroVision Pro 🚜
 
-![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-brightgreen)
-![Licença](https://img.shields.io/badge/License-MIT-blue.svg)
+![Status](https://img.shields.io/badge/Status-Sprint_3_em_Andamento-green)
+![Metodologia](https://img.shields.io/badge/Metodologia-Design_Thinking_%26_Scrum-blue)
+![Figma](https://img.shields.io/badge/Design-Figma_High_Fidelity-purple)
 
+O **AgroVision Pro** é um ecossistema mobile inteligente que utiliza **Inteligência Artificial e Visão Computacional** para transformar a gestão de pequenos e médios produtores rurais. O aplicativo unifica diagnóstico de pragas, controle financeiro e monitoramento climático em uma interface simplificada de "poucos cliques", pensada para a rotina no campo.
 
-## ⚘ Sobre o Projeto
+---
 
-O **CultivIA** é um aplicativo mobile desenvolvido para ser o braço direito do produtor rural. Utilizando Inteligência Artificial e Visão Computacional, o app permite que o agricultor tire fotos de suas culturas para identificar espécies, diagnosticar pragas ou doenças, e receber recomendações técnicas precisas. 
+## 🎨 Protótipo Interativo (Figma)
+Como parte da **Sprint 3**, desenvolvemos um protótipo de alta fidelidade que simula a experiência real do usuário, incluindo fluxos de diagnóstico e dashboard financeiro.
 
-Além do cuidado direto com a plantação, o CultivIA atua como um gerenciador completo da fazenda, unindo o planejamento agrícola com a gestão financeira e de estoque.
+🔗 **[CLIQUE AQUI PARA ACESSAR O PROTÓTIPO NO FIGMA](https://www.figma.com/proto/AlVZLgEz5sJs8g817zXEf1/CultivIA?node-id=2-803&t=dqWGCQrzVbjvn02s-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=76%3A151)**
 
-## 𖥔 Funcionalidades Principais
+---
 
-### ✧ Diagnóstico por Imagem (IA)
-* *Identificação de Plantas:* Reconhecimento da cultura.
-* *Detecção de Pragas e Doenças:* Análise de anomalias nas folhas, caules ou frutos através de fotos.
-* *Sugestões de Tratamento:* Recomendação de defensivos, fertilizantes e dosagens corretas baseadas no diagnóstico da IA.
+## 🚀 Funcionalidades Principais
+*   **Diagnóstico por IA (RF09):** Identificação de doenças via foto com sugestões de manejo e EPIs.
+*   **Gestão Financeira (RF02):** Cálculo automático de lucro real subtraindo custos de insumos e manutenção.
+*   **Cotações e Clima (RF08/RF10):** Previsão do tempo detalhada e preços de mercado da região em tempo real.
+*   **Operação Offline (RNF02):** Sincronização de dados para uso em locais sem sinal de internet.
 
-### ⛉ Segurança e Manejo
-* *Recomendação de EPIs:* Indicação de Equipamentos de Proteção Individual necessários para o manuseio dos produtos sugeridos pela IA.
-* *Calendário de Aplicação:* Lembretes de quando e como aplicar os insumos.
+## 👥 Equipe e Responsabilidades
+Para este projeto, dividimos as funções conforme o framework **Scrum**:
+*   **Juan Rafael Bet** – Scrum Master
+*   **Sidney Dudczak** – Product Owner
+*   **Natanael Constante Padilha** – Equipe de Desenvolvimento (UI/UX)
+*   **Rafael Marcelino** – Equipe de Desenvolvimento (UI/UX)
 
-### ⛁ Gestão da Fazenda e Financeiro
-* *Controle de Estoque:* Gerenciamento de sementes, fertilizantes e defensivos disponíveis na fazenda.
-* *Gestão Financeira:* Registro de despesas (compra de insumos, maquinário, mão de obra) e receitas (venda da safra).
-* *Previsão de Lucro:* Estimativa de rentabilidade baseada nos gastos atuais e cotação do mercado.
+---
 
+## 🛠️ Metodologia e Processo
+O projeto foi fundamentado na etapa de **Empatia do Design Thinking**, através de uma entrevista real com o produtor rural Sr. Sérgio (43 anos), cujas dores com a "gestão de cabeça" e custos de assistência técnica guiaram todos os nossos Requisitos Funcionais e Não-Funcionais.
+
+**Nota:** Este é um projeto estritamente visual para fins acadêmicos e não contém programação nesta etapa.
+
+**Instituição:** Centro Universitário Campo Real  
+**Curso:** Engenharia de Software
