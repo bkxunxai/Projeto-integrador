@@ -53,10 +53,10 @@ Fase com foco total na materialização da interface, testes de usabilidade em p
 - [x] **Esboços e Wireframes**: Refinamento dos desenhos estruturais de tela.
 - [x] **Desenvolvimento das Telas no Figma**: Design de interface de alta fidelidade.
 - [x] **Interações no Protótipo do Figma**: Criação de fluxos clicáveis e simulação de navegação real.
-- [ ] **Refinamento do Projeto**: Ajustes finos de design e consistência visual.
-- [ ] **Validação com o Entrevistado**: Teste do protótipo com o usuário inicial para coletar feedbacks.
-- [ ] **Preparação da Apresentação**: Construção do material para defesa do projeto (conforme Tópico 7).
-- [ ] **Finalização da Documentação**: Encerramento de todos os artefatos de texto.
+- [x] **Refinamento do Projeto**: Ajustes finos de design e consistência visual.
+- [x] **Validação com o Entrevistado**: Teste do protótipo com o usuário inicial para coletar feedbacks.
+- [x] **Preparação da Apresentação**: Construção do material para defesa do projeto (conforme Tópico 7).
+- [x] **Finalização da Documentação**: Encerramento de todos os artefatos de texto.
 
 ---
 
